@@ -1,2 +1,6 @@
 venv/
 
+files-converted/*
+files-unconverted/*
+!files-converted/.gitkeep
+!files-unconverted/.gitkeep
