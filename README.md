@@ -1,7 +1,7 @@
 # HEIC Converter
 
 
-![Python](https://img.shields.io/badge/Python-3.12.0-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12.0-ffdb4f.svg)
 ![Pillow](https://img.shields.io/badge/Pillow-10.3.0-blue.svg)
 
 
